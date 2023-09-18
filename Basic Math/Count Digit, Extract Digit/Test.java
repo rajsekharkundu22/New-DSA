@@ -4,6 +4,8 @@ public class Test {
 	
 	// count number of digit
 	// extract digit one by one
+
+	// Note: Time complexcity O(log10 (n))
 	
 	public static int countDigits(int n){
         int count =0;
