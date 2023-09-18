@@ -2,7 +2,8 @@ package test;
 
 public class Test {
 	
-	// extract Digit from given number
+	// count number of digit
+	// extract digit one by one
 	
 	public static int countDigits(int n){
         int count =0;
